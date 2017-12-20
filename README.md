@@ -1,3 +1,1 @@
-# citizenpac
-# MemeMaps
 # MemeMaps
